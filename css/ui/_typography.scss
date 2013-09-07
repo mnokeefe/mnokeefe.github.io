@@ -1,0 +1,33 @@
+// Headings
+
+h1, h2, h3, h4, h5, h6 {
+  color: $heading-color;
+  font-family: $heading-font;
+}
+
+h1, h2, .alpha, .beta {
+  font-weight: 900;
+}
+
+h3, h4, h5, h6, .gamma, .delta, .epsilon, .zeta {
+  font-weight: 700;
+}
+
+// Special areas
+
+.lede {
+  font-weight: 300;
+  font-size: 20px;
+}
+
+.intro {
+  font-weight: 300;
+  font-size: $h2-size;
+}
+
+// Links
+
+a {
+  text-decoration: none;
+  font-weight: 500;
+}
