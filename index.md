@@ -4,7 +4,7 @@ title: UX designer and strategist
 permalink: /
 ---
 
-<h1 class="intro">Hi, I'm Matt O'Keefe a UX designer and strategist from Cardiff. I'm also a very busy <a href="/trumpet">trumpet player</a>.</h1>
+<h1 class="intro">Hi, I'm Matt O'Keefe a UX designer and strategist from Cardiff. I'm also a gigging jazz trumpet player.</h1>
 
 <h2 id="ux">UX Design</h2>
 
