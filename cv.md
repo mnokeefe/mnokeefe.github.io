@@ -15,8 +15,7 @@ permalink: /cv/
 
 * Visit Britain Shop
 * British & Irish Lions: iOS, Android, Windows 8 and Windows Phone apps. MSN web app.
-* Bluestone: Full website
-* Riverford: Full website
+* Riverford Organic Farms
 
 ### UX Designer
 2011 - 2013

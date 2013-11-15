@@ -8,11 +8,11 @@ permalink: /
 
 <h2 id="ux">UX Design</h2>
 
-As a user experience designer I organise information, craft simple solutions to difficult problems and make design decisions based on research and data. I'm also a strategist working with businesses to achieve their goals and objectives while keeping the focus on helping their users.
+As a user experience designer I organise information, craft simple solutions to difficult problems and make design decisions based on research and data. I'm also a digital strategist working with businesses to achieve their goals and objectives without losing the focus on their users.
 
 ### Projects
 
-I've been lucky to work on some great projects at over the last couple of years. 
+I've been lucky to work on some great projects at [Sequence](http://www.sequence.co.uk/) over the last couple of years. 
 
 <section class="projects">
   <div class="media  media--project  media--project--lions">
@@ -56,14 +56,10 @@ I've been lucky to work on some great projects at over the last couple of years.
 #### Other clients I've worked with include
 
 <ul class="text-cols--2  client-list">
-  <li>Bluestone National Park Resort</li>
-  <li>Bouncepad</li>
   <li>Capita Symonds</li>
   <li>Cardiff University</li>
   <li>Donmar Warehouse</li>
   <li>Experian</li>
   <li>Legal & General</li>
-  <li>North West Aerospace Alliance</li>
   <li>Riverford Organic Farms</li>
-  <li>WCVA</li>
 </ul>
