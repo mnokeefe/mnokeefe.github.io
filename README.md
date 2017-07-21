@@ -1,5 +1,1 @@
-# mattokeefe.co.uk
-
-My personal site built on [Jekyll](https://github.com/mojombo/jekyll) with
-[inuit.css](http://inuitcss.com).
-
+Don't look at it here. Look at it [here](mattokeefe.co.uk).
